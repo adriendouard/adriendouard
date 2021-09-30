@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adriendouard
 - 👀 I’m interested in using GitHub to develop project artifacts
 - 🌱 I’m currently learning how to collaborate with my teammates
-- 💞️ I’m looking to collaborate on project
+- 💞️ I’m looking to becoming a GitHub aficionado 
 - 📫 How to reach me her or email me at adouard@take2it.com
 
 <!---
